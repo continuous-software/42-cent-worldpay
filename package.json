@@ -18,12 +18,12 @@
     "casual": "^1.4.7",
     "42-cent-model": "^2.0.2"
   },
-  "repository":{
-    "type":"git",
-    "url":"https://github.com/continuous-software/node-worldpay.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/continuous-software/node-worldpay.git"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "node ./node_modules/mocha/bin/_mocha -t 20000  ./test/"
   },
   "keywords": [
     "42-cent",
