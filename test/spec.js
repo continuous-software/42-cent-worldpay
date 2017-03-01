@@ -238,7 +238,7 @@ describe('WorldPay payment gateway', function () {
         assert(result.profileId, ' profileId Should be defined');
         assert(result._original, '_original should be defined');
         prospect.profileId = result.profileId;
-        return service.chargeCustomer({amount: Math.random() * 100}, prospect);
+        return service.chargeCustomer({amount: Math.random() * 1000}, prospect);
       })
       .then(result => {
         done()
