@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/continuous-software/node-worldpay.svg?branch=master)](https://travis-ci.org/continuous-software/node-worldpay)
 
-![node-worldpay](https://worldpay.ncr.com/media/worldpay/images/Home/worldpay_logo_v1_m56577569830484834.png)
+![node-worldpay](http://www.heraldscotland.com/resources/images/4317415.png)
 
 ## Installation ##
 
