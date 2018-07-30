@@ -1,10 +1,8 @@
-[![Build Status](https://travis-ci.org/continuous-software/42-cent-worldpay.svg?branch=master)](https://travis-ci.org/continuous-software/42-cent-worldpay)
+[![Build Status](https://travis-ci.org/continuous-software/42-cent-worldpay.svg?branch=master)](https://travis-ci.org/continuous-software/42-cent-worldpay) [![Greenkeeper badge](https://badges.greenkeeper.io/continuous-software/42-cent-worldpay.svg)](https://greenkeeper.io/)
 
 ![42-cent-worldpay](http://www.heraldscotland.com/resources/images/4317415.png)
 
 ## Installation ##
-
-[![Greenkeeper badge](https://badges.greenkeeper.io/continuous-software/42-cent-worldpay.svg)](https://greenkeeper.io/)
 
     $ npm install -s 42-cent-worldpay
 
