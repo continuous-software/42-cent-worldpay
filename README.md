@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/continuous-software/42-cent-worldpay.svg?branch=master)](https://travis-ci.org/continuous-software/42-cent-worldpay) [![Greenkeeper badge](https://badges.greenkeeper.io/continuous-software/42-cent-worldpay.svg)](https://greenkeeper.io/)
+[![Build Status](https://travis-ci.org/continuous-software/42-cent-worldpay.svg?branch=master)](https://travis-ci.org/continuous-software/42-cent-worldpay) [![Greenkeeper badge](https://badges.greenkeeper.io/continuous-software/42-cent-worldpay.svg)](https://greenkeeper.io/) [![GuardRails badge](https://badges.production.guardrails.io/continuous-software/42-cent-worldpay.svg)](https://www.guardrails.io)
 
 <img src="https://www.worldpay.com/sites/all/themes/custom/worldpay/img/brand/worldpay-logo.svg" height=84 alt="42-cent-worldpay"/>
 
