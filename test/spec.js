@@ -33,7 +33,7 @@ describe('WorldPay payment gateway', function () {
       return new CreditCard()
         .withCreditCardNumber('4444333322221111')
         .withExpirationMonth('11')
-        .withExpirationYear('2019')
+        .withExpirationYear('2021')
         .withCvv2('123');
     },
     mastercard: function () {
